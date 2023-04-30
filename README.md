@@ -1,4 +1,7 @@
+中文文档：https://smiler666.github.io/post/ai-2-rl-policy-iteration/
+
 ## Reinforcement-Learning-Notes
+
 This is my reinforcement learning notes, for storing my study notes.
 ## Value iteration and Policy iteration
 
@@ -15,8 +18,6 @@ MDP‘s five tuple is：
 - discount factor：0.9
 
 Please go to my blog to read the detail of value iteration and policy iteration 
-
-https://smiler666.github.io/post/rl-policy-iteration/
 
 Welcome criticism and correction
 
